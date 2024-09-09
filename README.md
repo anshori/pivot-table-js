@@ -6,7 +6,9 @@ Data source from BPS Village Potential (Podes) 2011 with modifications.
 
 ## Demo
 
-[https://anshori.github.io/pivot-table-js/](https://anshori.github.io/pivot-table-js/)
+1. [Pivot Table With JSON Data](https://anshori.github.io/pivot-table-js/)
+
+2. [Pivot Table With CSV Data](https://anshori.github.io/pivot-table-js/csv-data.html)
 
 ---
 > [unsorry@2024](https://unsorry.net)
