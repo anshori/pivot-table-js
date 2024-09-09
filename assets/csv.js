@@ -11,6 +11,10 @@ $(document).ready(function () {
 					rowOrder: "value_a_to_z",
 					colOrder: "value_z_to_a",
 				});
+
+				$('#loading').hide();
+
+				$('#btnDownload').show();
 			}
 		});
 	});
